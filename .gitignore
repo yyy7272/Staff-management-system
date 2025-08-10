@@ -26,3 +26,4 @@ yarn-debug.log*
 Thumbs.db
 #claude code
 CLAUDE.md
+.claude/
